@@ -1,31 +1,33 @@
 ---
-title: "7 Habits of Highly Effective Youth"
-description: "This program helps youth develop key life and leadership skills for personal and academic success."
-pubDate: "Aug 27 2018"
-thumbnail: "/certificates/cert1.jpg"
-tags: ["certification"]
+title: "Google Data Analytics Professional Certificate"
+description: "This program equips learners with job-ready skills in data analytics for entry-level roles."
+pubDate: "Feb 14 2025"
+thumbnail: "/certificates/cert1.png"
+tags: ["certification", "Google"]
 ---
 
-Based on Stephen R. Covey’s internationally acclaimed framework, this program helps youth develop key life and leadership skills for personal and academic success.
+Designed by Google, this professional certificate program equips learners with <strong>job-ready skills in data analytics</strong> for entry-level roles.
 
 <h2>Key highlights:</h2>
 
 <ul>
-  <li>Learned and applied the <strong>7 Habits</strong>:
+  <li>Completed the <strong>Google Data Analytics Professional Certificate</strong>, consisting of 8 courses:
     <ul>
-      <li>Be Proactive</li>
-      <li>Begin with the End in Mind</li>
-      <li>Put First Things First</li>
-      <li>Think Win-Win</li>
-      <li>Seek First to Understand, Then to Be Understood</li>
-      <li>Synergize</li>
-      <li>Sharpen the Saw</li>
+      <li>Foundations: Data, Data Everywhere</li>
+      <li>Ask Questions to Make Data-Driven Decisions</li>
+      <li>Prepare Data for Exploration</li>
+      <li>Process Data from Dirty to Clean</li>
+      <li>Analyze Data to Answer Questions</li>
+      <li>Share Data Through the Art of Visualization</li>
+      <li>Data Analysis with R Programming</li>
+      <li>Google Data Analytics Capstone: Complete a Case Study</li>
     </ul>
   </li>
-  <li>Developed strong <strong>self-leadership and time management</strong> skills.</li>
-  <li>Improved <strong>communication, teamwork, and decision-making</strong> abilities.</li>
-  <li>Built a foundation of <strong>personal responsibility, goal-setting</strong>, and <strong>values-based living</strong>.</li>
-  <li>Participated in interactive activities and reflections to reinforce positive habits for personal growth.</li>
+  <li>Gained hands-on experience with <strong>spreadsheets, SQL, Tableau, and R</strong>.</li>
+  <li>Learned to <strong>prepare, clean, analyze, and visualize data</strong> to support data-driven decisions.</li>
+  <li>Developed a solid foundation in <strong>data storytelling and communicating insights</strong>.</li>
+  <li>Built <strong>problem-solving and analytical thinking</strong> skills through practice-based assessments and case studies.</li>
 </ul>
 
-This certification reflects a commitment to self-improvement and the development of leadership potential.
+<p>This certification reflects practical readiness for entry-level roles in data analytics and a strong understanding of the data life cycle.</p>
+

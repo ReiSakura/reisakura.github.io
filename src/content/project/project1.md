@@ -1,24 +1,82 @@
 ---
-title: "E-Commerce Webpage Template"
-description: "This Node.js shopping website enables users to browse products, add items to their cart, and checkout securely, improving my programming, problem-solving, and web development skills."
-pubDate: "Sep 10 2022"
+title: "Car Rental Management System (2024)"
+description: "The implementation of a car rental management system addresses the growing demand for flexible transportation solutions, offering users benefits such as cost efficiency, ease of access, and the elimination of maintenance responsibilities."
+pubDate: "Nov 22 2024"
 thumbnail: "/project1/project1.png"
 tags: ["project"]
 ---
 
-For this project, I developed a shopping website using Node.js as the backend framework. This website allows users to browse products, add items to their cart, and complete purchases securely. It also features user authentication, a product search system, and an order history section. The website is designed to be simple, user-friendly, and efficient.
+The system provides flexibility and convenience, allowing them to browse available vehicles, make reservations, and manage bookings at any time from any device. Whether for business trips, vacations, or temporary transportation needs, customers benefit from having quick and easy access to a wide range of vehicles tailored to their preferences and budget.
 
 <h2 class="card-title">
-    💡 How This Project Helps Me Improve
+    UI Design and Development for Car Rental Management System
+</h2>
+
+As part of the project, I designed and developed the user interface for the Car Rental Management System, focusing on a responsive and intuitive experience for both customers and administrators.
+
+Built with React and Material-UI, the UI includes features such as vehicle browsing, booking management, real-time availability, and secure authentication. I also integrated Chart.js to display booking trends and vehicle usage through interactive dashboards.
+
+The result is a clean, high-performance interface that improves usability and supports smooth system operations.
+
+<h3 class="card-title">
+    User Profile Management
+</h2>
+<Image width="750" height="422" format="png" src="/project1/profile.png" alt="game" class="w-full mb-6" />
+The system includes a dedicated User Profile section that allows users to view and manage their personal information. Through this interface, users can easily update details such as their name, contact information, and password, ensuring their profile remains accurate and up to date.
+This feature enhances the overall user experience by providing greater control and personalization, while maintaining a secure and accessible environment for managing account data.
+
+<h3 class="card-title">
+    Booking a Reservation
+</h2>
+<Image width="750" height="422" format="png" src="/project1/user_reservation_final.png" alt="game" class="w-full mb-6" />
+    <ul>
+      <li>Streamlined and user-friendly reservation workflow</li>
+      <li>Users can browse the fleet and filter by vehicle type, price, or availability</li>
+      <li>Allows selection of desired rental period</li>
+      <li>Secure and intuitive booking process</li>
+      <li>Includes confirmation of rental dates, pricing breakdown, and optional add-ons</li>
+      <li>Real-time availability ensures accurate and up-to-date bookings</li>
+      <li>Designed for a seamless experience, supporting both spontaneous and planned rentals</li>
+    </ul>
+
+<h3 class="card-title">
+    User Booking History
+</h2>
+<Image width="750" height="422" format="png" src="/project1/history.png" alt="game" class="w-full mb-6" />
+This allows users to view a detailed record of their past rentals, including vehicle details, rental dates, duration, costs, and status (e.g., completed, cancelled).
+
+<h3 class="card-title">
+    Admin Dashboard
+</h2>
+<Image width="750" height="422" format="png" src="/project1/admindashboard.png" alt="game" class="w-full mb-6" />
+    <ul>
+      <li>Provides administrators with full control over system operations</li>
+      <li>Manage vehicles, bookings, and user accounts</li>
+      <li>Monitor real-time system activity and performance</li>
+      <li>Visualize data with interactive charts using Chart.js</li>
+      <li>Built with React for a fast and responsive interface</li>
+      <li>Supports informed decision-making and efficient fleet management</li>
+    </ul>
+
+<h3 class="card-title">
+    Database
+</h3>
+
+<Image width="750" height="422" format="png" src="/project1/db.png" alt="game" class="w-full mb-6" />
+<ul>
+    <li>MySQL used as the primary relational database</li>
+    <li>Stores user information, vehicle data, bookings, and transaction history</li>
+    <li>Ensures data integrity through structured schema and relationships</li>
+    <li>Supports real-time data retrieval for availability and user actions</li>
+    <li>Integrated with backend using Node.js and Express</li>
+    <li>Managed and visualized using MySQL Workbench</li>
+</ul>
+
+<h2 class="card-title">
+    Technology Stack
 </h2>
 
 <ul>
-    <li><strong>Enhancing My Programming Skills</strong> – By working with <strong>Node.js</strong>, I have gained experience in backend development, handling databases, and managing APIs. I also learned how to use <strong>Express.js</strong> for routing and <strong>MongoDB/MySQL</strong> for storing data.</li>
-    <li><strong>Problem-Solving & Debugging</strong> – Building the site required me to solve many technical challenges, such as handling <strong>server requests, database queries, and user authentication</strong>. Debugging errors and optimizing performance helped me develop <strong>logical thinking and patience</strong>.</li>
-    <li><strong>Web Development Knowledge</strong> – Through this project, I improved my understanding of <strong>full-stack development</strong>, including frontend technologies like <strong>HTML, CSS, and JavaScript</strong>, as well as backend concepts such as <strong>RESTful APIs</strong>.</li>
-    <li><strong>Time Management & Organization</strong> – Developing a functional website required me to <strong>plan, set deadlines, and manage different tasks</strong>, helping me become more <strong>organized and efficient</strong> in my work.</li>
-    <li><strong>Creativity & User Experience</strong> – Designing a shopping website taught me how to <strong>create an engaging UI/UX</strong> that is simple and intuitive. I learned how to balance <strong>functionality with aesthetics</strong>.</li>
-    <li><strong>Learning Real-World Skills</strong> – This project simulates real-world web development, preparing me for <strong>future projects, internships, or careers</strong> in software development. It also gave me a better understanding of how <strong>e-commerce platforms work</strong>.</li>
+  <li><strong>Frontend:</strong> React, Material-UI, Chart.js </li>
+  <li><strong>Backend:</strong> Node.js, Express, MySQL</li>
 </ul>
-
-Overall, this project expanded my technical skills, improved my problem-solving abilities, and strengthened my creativity. It was a valuable learning experience that will help me grow as a developer.
